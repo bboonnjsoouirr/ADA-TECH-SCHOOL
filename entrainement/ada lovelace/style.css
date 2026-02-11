@@ -1,0 +1,39 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  color: hotpink;
+}
+
+.text-red {
+  color: red;
+  margin-top: 500px;
+}
+
+#size-1 {
+  font-size: 60px;
+  color: pink;
+}
+
+body {
+  background-color: pink;
+  font-family: "comic sans MS";
+}
+
+body {
+  color: hotpink;
+}
+
+img {
+  border-radius: 50% 50%;
+}
+
+img {
+  border: 5px solid hotpink;
+}
+
+.un {
+  list-style-position: inside;
+  list-style-type: disc;
+}

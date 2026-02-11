@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  font-family:
+    "Audiowide",
+    sans serif;
+}
+
+body {
+  color: white;
+}
+
+.un {
+  list-style-position: inside;
+  list-style-type: disc;
+}
+
+ol {
+  list-style-position: inside;
+  list-style-type: round;
+}
+
+.listes {
+  display: flex;
+  justify-self: center;
+  gap: 40px;
+}

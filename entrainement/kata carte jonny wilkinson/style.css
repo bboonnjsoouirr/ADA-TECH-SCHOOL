@@ -1,0 +1,29 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(98, 154, 14);
+}
+
+figure {
+  border: thin silver solid;
+  display: flex;
+  flex-flow: column;
+  padding: 5px;
+  max-width: 500px;
+  margin: auto;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+
+figcaption {
+  background-color: #222222;
+  color: white;
+  font: italic smaller sans-serif;
+  padding: 3px;
+  text-align: center;
+}
